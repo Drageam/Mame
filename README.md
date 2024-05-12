@@ -7,7 +7,7 @@ https://archive.org/details/mame-merged
 Bios:
 https://archive.org/download/mame-merged/BIOS/
 
-Roms (Version Merged, Adentro del rom, podrias encontrar las varioasiones del mismo juego)
+Roms (Presionar F3 y escribir el nombre del archivo del juego que quieras encontrar).(Version Merged, Adentro de la rom, podrias encontrar las varioasiones del mismo juego)
 https://archive.org/download/mame-merged/mame-merged/
 
 CHDS:
