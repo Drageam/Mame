@@ -4,6 +4,8 @@ Lo necesario Para mame
 De todo:
 https://archive.org/details/mame-merged
 
+NOTA: LOS LINKS FUNCIONAN PERO SE OCUPAN CREAR UN CUENTA EN ARCHIVE.ORG PARA PODER DESCARGAR (ASUMO POR POLITICAS O ALGO PASO)
+
 Bios: (SI EL LINK NO SIRVE AQUI MISMO EN GITHUB DONDE DICE RELEASES ESTAN EL .ZIP DE LAS BIOS)
 https://archive.org/download/mame-merged/BIOS/
 
